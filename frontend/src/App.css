@@ -1,0 +1,29 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.dropdown {
+  width: 250px;
+  height: 100vh;
+}
+.Heading {
+  font-size: 24px;
+  padding: 8px;
+}
+
+.text {
+  font-size: 18px;
+  padding-left: 8px;
+}
